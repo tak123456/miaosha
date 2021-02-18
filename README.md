@@ -21,4 +21,3 @@
   单个用户接口限流（redis计数）
 
 3测试结果使用jmeter压力测试，实现在redis中生成kill_1 键，生成md5token
-![Image text] (/Users/tianankang/Desktop/截屏2021-02-18 下午10.20.18.png)
